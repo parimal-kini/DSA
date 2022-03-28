@@ -26,7 +26,7 @@ public class FirstAndLastPosition_5 {
             if(target < arr[mid])
                 end = mid - 1;
             else if(target > arr[mid])
-                start = start + 1;
+                start = mid + 1;
             else{
                 ans = mid;
                 if(firstStartIndex)
