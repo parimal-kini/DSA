@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d1c864-9c3b-4044-a34d-61212f536892" name="Changes" comment="" />
+    <list default="true" id="78d1c864-9c3b-4044-a34d-61212f536892" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/EvenOrOdd_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/EvenOrOdd_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/VarArgs1_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/VarArgs1_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/parimalkini/VarArgs1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/parimalkini/VarArgs1_10.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1yP6pYKbBPnZUUwkRzWUrx9sSWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -77,9 +87,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.EvenOrOdd_2">
+  <component name="RunManager" selected="Application.VarArgs1_10">
     <configuration name="EvenOrOdd_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.parimalkini.EvenOrOdd_2" />
       <module name="4_Functions" />
@@ -103,8 +114,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarArgs1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.parimalkini.VarArgs1_10" />
+      <module name="4_Functions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parimalkini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarArgs1_10" />
         <item itemvalue="Application.EvenOrOdd_2" />
         <item itemvalue="Application.Main" />
       </list>
@@ -120,5 +145,16 @@
       <updated>1632141067540</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
