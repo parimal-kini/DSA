@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d1c864-9c3b-4044-a34d-61212f536892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/EvenOrOdd_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/EvenOrOdd_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/VarArgs1_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4_Functions/com/parimalkini/VarArgs1_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/parimalkini/VarArgs1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/parimalkini/VarArgs1_10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +84,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7_BinarySearch" />
   </component>
   <component name="RunManager" selected="Application.VarArgs1_10">
     <configuration name="EvenOrOdd_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -156,5 +152,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
