@@ -1,6 +1,6 @@
 package com.parimalkini;
 
-public class FirstMissingPositive {
+public class iFirstMissingPositive {
     public static void main(String[] args) {
         int[] arr = {1,2,0};
         System.out.println(firstMissingPositive(arr));

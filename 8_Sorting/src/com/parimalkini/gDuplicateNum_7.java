@@ -1,6 +1,6 @@
 package com.parimalkini;
 
-public class DuplicateNum_3 {
+public class gDuplicateNum_7 {
     public static void main(String[] args) {
         int[] arr = {8,4,3,2,7,5,8,6,1};
         System.out.println(findDuplicate(arr));

@@ -1,6 +1,6 @@
 package com.parimalkini;
 
-public class MissingNumber_1 {
+public class hMissingNumber_8 {
     public static void main(String[] args) {
         int[] arr = {1,0,4,2};
         System.out.println(cyclicSort(arr));

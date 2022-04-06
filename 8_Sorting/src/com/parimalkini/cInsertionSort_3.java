@@ -2,7 +2,7 @@ package com.parimalkini;
 
 import java.util.Arrays;
 
-public class InsertionSort {
+public class cInsertionSort_3 {
     public static void main(String[] args) {
         int[] arr ={5,3,2,4,1};
         insertionSort(arr);
@@ -10,15 +10,24 @@ public class InsertionSort {
     }
     static void insertionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
-            for (int j = i+1; j > 0; j--) {
-                if (arr[j] < arr[j-1]) {
+            for (int j = i+1; j > 0 ; j--) {
+                if(arr[j] < arr[j-1]){
                     int temp = arr[j];
                     arr[j] = arr[j-1];
                     arr[j-1] = temp;
-                } else {
-                    break;
                 }
             }
         }
     }
 }
+//for (int i = 0; i < arr.length - 1; i++) {
+//        for (int j = i+1; j > 0; j--) {
+//        if (arr[j] < arr[j-1]) {
+//        int temp = arr[j];
+//        arr[j] = arr[j-1];
+//        arr[j-1] = temp;
+//        } else {
+//        break;
+//        }
+//        }
+//        }
