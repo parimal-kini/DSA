@@ -14,7 +14,9 @@ public class fAllMissingNums_6 {
         while (i < nums.length) {
             int correct = nums[i] - 1;
             if (nums[i] != nums[correct]) {
-                swap(nums, i , correct);
+                int temp = nums[i];
+                nums[i] = nums[correct];
+                nums[correct] = temp;
             } else {
                 i++;
             }
@@ -28,10 +30,5 @@ public class fAllMissingNums_6 {
         }
 
         return ans;
-    }
-    static void swap(int[]arr, int first, int second){
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
     }
 }
